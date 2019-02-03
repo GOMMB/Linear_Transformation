@@ -19,3 +19,6 @@ Once you press enter, the animation will begin.
 ### Controls
   * **Left Click:** This compounds the transformation, equivalent to multiplying the matrix by itself.
   * **Right Click:** This resets/replays the animation as if you just started it. 
+  
+  
+Credit for the P5 module goes to: https://github.com/p5py/p5
