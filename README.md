@@ -21,4 +21,6 @@ Once you press enter, the animation will begin.
   * **Right Click:** This resets/replays the animation as if you just started it. 
   
   
-Credit for the P5 module goes to: https://github.com/p5py/p5
+## Requirements
+
+The required python modules are: p5, copy, and tkinter.
